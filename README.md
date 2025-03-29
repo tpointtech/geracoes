@@ -39,7 +39,7 @@
 ## Links 
 
 * [Site deste projeto](https://romulocraveiro.github.io/geracoes/)
-* [Dicas sobre adicionar espaços em HTML](https://www.javatpoint.com/how-to-add-space-in-html)
+* [Dicas sobre adicionar espaços em HTML](https://www.tpointtech.com/how-to-add-space-in-html)
 
 ## Autor / Author
 
